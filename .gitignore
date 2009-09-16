@@ -1,3 +1,4 @@
 config/database.yml
+config/juggernaut_hosts.yml
 tmp/*
 log/*

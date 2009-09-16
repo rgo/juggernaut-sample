@@ -2,6 +2,12 @@ Juggernaut-sample
 =================
 The purpose of this application is to allow you to learn to use juggernaut.
 
+Requirements
+============
+Juggernaut gem and plugin installed from http://github.com/maccman:
+	juggernaut_gem
+	juggernaut_plugin
+
 Features
 ========
 	- Chat window
